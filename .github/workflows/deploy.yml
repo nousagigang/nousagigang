@@ -1,15 +1,12 @@
-name: Build Hugo
+name: Deploy Hugo to Firebase
 
 on:
   push:
     branches:
       - main
 
-permissions:
-  contents: read
-
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,4 +25,13 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify
+        run: hugo --minify --gc
+
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          projectId: nousagigangph
+          target: nousagigang
+          channelId: live
