@@ -1,0 +1,39 @@
+name: Import Layouts Folder
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-layouts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout migration branch
+        uses: actions/checkout@v4
+        with:
+          ref: migration
+
+      - name: Clone source repo
+        run: git clone --depth 1 https://github.com/k4lm3d/nsg.git source
+
+      - name: Replace layouts folder
+        run: |
+          rm -rf layouts
+          cp -R source/layouts ./layouts
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add layouts
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Import layouts folder from k4lm3d/nsg"
+            git push origin HEAD:migration
+          fi
