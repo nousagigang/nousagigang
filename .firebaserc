@@ -5,6 +5,7 @@
   "targets": {
     "nousagigangph": {
       "hosting": {
+        "nousagigangph": ["nousagigangph"],
         "nousagigang": ["nousagigang"]
       }
     }
