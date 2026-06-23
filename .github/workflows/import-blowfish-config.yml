@@ -1,0 +1,43 @@
+name: Import Blowfish Config
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Blowfish version"
+        required: true
+        default: "v2.103.0"
+
+permissions:
+  contents: write
+
+jobs:
+  import-config:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download config package
+        run: |
+          curl -L \
+            "https://github.com/nunocoracao/blowfish/releases/download/${{ github.event.inputs.version }}/config-default.zip" \
+            -o config-default.zip
+
+      - name: Extract config
+        run: |
+          mkdir -p config/_default
+          unzip -o config-default.zip -d config/_default
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add config
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Import Blowfish config ${{ github.event.inputs.version }}"
+            git push
+          fi
