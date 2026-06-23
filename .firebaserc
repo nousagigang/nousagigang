@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "nousagigangph"
+  },
+  "targets": {
+    "nousagigangph": {
+      "hosting": {
+        "nousagigang": ["nousagigang"]
+      }
+    }
+  }
+}
