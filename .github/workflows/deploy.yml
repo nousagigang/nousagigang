@@ -25,7 +25,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --gc --verbose
+        run: hugo --gc --templateMetrics --templateMetricsHints
 
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
