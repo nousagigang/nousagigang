@@ -87,7 +87,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have questions about this Privacy Policy, concerns regarding your data, or wish to report an issue, please contact us through one of the following channels:
 
 * Email address: [nsg.ph@proton.me](mailto:nsg.ph@proton.me)
-* GitHub Repository: https://github.com/k4lm3d/nsg
+* GitHub Repository: https://github.com/nousagigang/nousagigang
 * Discord channel: `#support`
 
-For bug reports, feature requests, and contributions, please use the GitHub repository's [issue tracker](https://github.com/k4lm3d/nsg/issues) when appropriate.
+For bug reports, feature requests, and contributions, please use the GitHub repository's [issue tracker](https://github.com/nousagigang/nousagigang/issues) when appropriate.
