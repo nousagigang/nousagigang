@@ -1,0 +1,37 @@
+name: Migrate Rebuilding Day One Images
+
+on:
+  workflow_dispatch:
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout migration branch
+        uses: actions/checkout@v4
+        with:
+          ref: test
+
+      - name: Create destination directory
+        run: |
+          mkdir -p static/news/rebuilding-day-one
+
+      - name: Copy images
+        run: |
+          find content/news/rebuilding-day-one \
+            -maxdepth 1 \
+            -type f \
+            \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \) \
+            -exec cp {} static/news/rebuilding-day-one/ \;
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add static/news/rebuilding-day-one
+
+          git commit -m "Move rebuilding-day-one images to static" || echo "No changes"
+
+          git push origin test
