@@ -22,11 +22,11 @@ Use the repository to:
 * Submit pull requests
 * Review project documentation
 
-{{< button href="https://github.com/k4lm3d/nsg" target="_blank" >}}
+{{< button href="https://github.com/nousagigang/nousagigang" target="_blank" >}}
 View Github Repository
 {{< /button >}}&nbsp;
 
-{{< github repo="k4lm3d/nsg" showThumbnail=false >}}
+{{< github repo="nousagigang/nousagigang" showThumbnail=false >}}
 
 ---
 
@@ -54,7 +54,7 @@ Subscribe to RSS Feed
 
 Review notable changes, updates, improvements, and new features added to the website.
 
-{{< button href="https://github.com/k4lm3d/nsg/blob/main/CHANGELOG.md" target="_blank" >}}
+{{< button href="https://github.com/nousagigang/nousagigang/blob/main/CHANGELOG.md" target="_blank" >}}
 View Changelog
 {{< /button >}}
 
@@ -75,7 +75,7 @@ Learn about the technologies, services, and tools used to build and operate this
 * [GitHub](https://github.com)
 * GitHub Actions
 
-{{< button href="https://github.com/k4lm3d/nsg/blob/main/README.md#build--deploy" target="_blank" >}}
+{{< button href="https://github.com/nousagigang/nousagigang/blob/main/README.md#build--deploy" target="_blank" >}}
 View Build & Deploy
 {{< /button >}}
 
@@ -93,7 +93,7 @@ Information about the infrastructure and services used to host and deliver this 
 * Backend services
 * Availability and performance considerations -->
 
-{{< button href="https://github.com/k4lm3d/nsg/blob/main/README.md#domains" target="_blank" >}}
+{{< button href="https://github.com/nousagigang/nousagigang/blob/main/README.md#domains" target="_blank" >}}
 View Hosting Information on README
 {{< /button >}}
 
@@ -119,7 +119,7 @@ Interested in contributing to the project itself?
 
 This guide explains how to report issues, suggest improvements, contribute content, or submit code and documentation changes.
 
-{{< button href="https://github.com/k4lm3d/nsg/blob/main/CONTRIBUTING.md" target="_blank" >}}
+{{< button href="https://github.com/k4lm3d/nousagigang/nousagigang/main/CONTRIBUTING.md" target="_blank" >}}
 Contributing Guide
 {{< /button >}}
 
