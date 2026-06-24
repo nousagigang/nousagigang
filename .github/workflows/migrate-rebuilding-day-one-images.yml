@@ -1,17 +1,21 @@
-name: Migrate Rebuilding Day One Images
+name: Import Rebuilding Day One Images
 
 on:
   workflow_dispatch:
 
 jobs:
-  migrate:
+  import-images:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout migration branch
+      - name: Checkout destination repository
         uses: actions/checkout@v4
         with:
           ref: test
+
+      - name: Clone legacy repository
+        run: |
+          git clone --depth 1 https://github.com/k4lm3d/nsg.git legacy
 
       - name: Create destination directory
         run: |
@@ -19,19 +23,19 @@ jobs:
 
       - name: Copy images
         run: |
-          find content/news/rebuilding-day-one \
+          find legacy/content/news/rebuilding-day-one \
             -maxdepth 1 \
             -type f \
             \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \) \
-            -exec cp {} static/news/rebuilding-day-one/ \;
+            -exec cp {} static/images/news/rebuilding-day-one/ \;
 
-      - name: Commit changes
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add static/news/rebuilding-day-one
 
-          git commit -m "Move rebuilding-day-one images to static" || echo "No changes"
+          git commit -m "Import rebuilding-day-one images from legacy repository" || echo "No changes"
 
           git push origin test
