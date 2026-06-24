@@ -38,9 +38,9 @@ View Terms of Use
 
 Unless otherwise stated:
 
-→ Source code is licensed under the [MIT License](https://github.com/k4lm3d/nsg/blob/main/LICENSE).
+→ Source code is licensed under the [MIT License](https://github.com/nousagigang/nousagigang/blob/main/LICENSE).
 
-{{< button href="https://github.com/k4lm3d/nsg/blob/main/LICENSE" target="_blank" >}}
+{{< button href="https://github.com/nousagigang/nousagigang/main/LICENSE" target="_blank" >}}
 View MIT License
 {{< /button >}}&nbsp;
 
@@ -52,6 +52,6 @@ View CC BY-NC-SA 4.0 License
 
 For more information, please see the project's repository and licensing documentation.
 
-{{< button href="https://github.com/k4lm3d/nsg/blob/main/README.md#licensing" target="_blank" >}}
+{{< button href="https://github.com/nousagigang/nousagigang/blob/main/README.md#licensing" target="_blank" >}}
 View Licensing
 {{< /button >}}
