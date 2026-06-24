@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Nousagi Gang 🇵🇭"
+title = "Nousagi Gang"
 
 [params]
   displayName = "EN"
