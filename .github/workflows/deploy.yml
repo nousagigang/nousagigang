@@ -26,6 +26,7 @@ jobs:
 
       - name: Build site
         run: hugo --gc --templateMetrics --templateMetricsHints
+             ls -la public | head
 
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
