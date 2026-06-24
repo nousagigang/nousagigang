@@ -1,5 +1,5 @@
 ---
-title: 'Terms of Use'
+title: Terms of Use
 date: 2026-06-12T06:03:00+08:00
 draft: false
 description: "Nousagi Gang PH Website's Terms of Use"
@@ -67,4 +67,4 @@ These Terms of Use may be updated from time to time. Continued use of the websit
 If you have questions regarding these Terms of Use, please contact us through:
 
 * Email: [nsg.ph@proton.me](mailto:nsg.ph@proton.me)
-* GitHub Repository: https://github.com/k4lm3d/nsg
+* GitHub Repository: https://github.com/nousagigang/nousagigang
