@@ -1,5 +1,5 @@
 ---
-title: 'Contributions'
+title: Contributions
 date: 2024-11-23T04:12:38+08:00
 update: 2026-03-21T12:58:20+08:00
 draft: false
@@ -12,9 +12,9 @@ showTableOfContents: true
 
 #### STEP 1
 
-**Fork** [this](https://github.com/k4lm3d/nsg) repository
+**Fork** [this](https://github.com/nousagigang/nousagigang) repository
 
-{{< github repo="k4lm3d/nsg" showThumbnail=true >}}
+{{< github repo="nousagigang/nousagigang" showThumbnail=true >}}
 
 <br>
 {{< alert >}}
@@ -104,8 +104,6 @@ ___
 - [Hugo](https://gohugo.io/) *(static site generator)*
 - [Blowfish](https://blowfish.page/) by [Nuno Coraco](https://github.com/nunocoracao) *(🔥 Hugo theme)*
 - [GitHub](https://github.com/) *(code hosting)*
-- [Render](https://render.com/) *(deployment handling)*
-- [Open-Domains](https://open-domains.net/) *(free subdomains)*
 - [Auto Creative](https://auto.creavite.co/) *(GIF banners)*
 - [Google Gemini](https://gemini.google.com/) *(creative writing)*
 - [Dola, formerly Cici](https://www.dola.com/) *(background images)*
