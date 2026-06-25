@@ -16,7 +16,7 @@ jobs:
           ref: main
 
       - run: |
-          mv content/news/rebuilding-day-one content/news/rebuilding-day-one.disabled
+          mv content/news/rebuilding-day-one.disabled content/news/rebuilding-day-one
 
       - run: |
           git config user.name "github-actions[bot]"
