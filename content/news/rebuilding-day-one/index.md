@@ -8,8 +8,7 @@ aliases:
 - /rebuilding-day-1
 - /20260618
 layoutBackgroundHeaderSpace: false
-cardViewScreenWidth: false
-showTableOfContents: true
+showTableOfContents: false
 showDate: true
 showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity", "LeadersLog", "HappyBirthday"]
