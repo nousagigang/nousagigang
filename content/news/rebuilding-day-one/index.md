@@ -1,13 +1,13 @@
 ---
 title: "Rebuilding NSG: Day One"
-date: 2026-06-18T19:14:00+08:00 # update: 2026-06-17T00:27:00+08:00
+date: 2026-06-18T19:14:00+08:00
+update: 2026-06-19T00:27:00+08:00
 draft: false
 description: "A leader's log documenting the first day of rebuilding Nousagi [NSG] on CyberCode Online."
 aliases:
 - /rebuilding-day-1
 - /20260618
 layoutBackgroundHeaderSpace: false
-cardViewScreenWidth: false
 showTableOfContents: true
 showDate: true
 showDateUpdated: true
