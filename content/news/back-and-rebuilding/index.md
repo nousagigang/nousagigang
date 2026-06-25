@@ -8,7 +8,7 @@ aliases:
 - /20260616
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
-showTableOfContents: true
+showTableOfContents: false
 showDate: true
 showDateUpdated: true
 tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity"]
