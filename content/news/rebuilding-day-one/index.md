@@ -40,22 +40,3 @@ I also spoke with [Chief_Marauder](members/chief_marauder).
 While he said he wouldn't be joining the gang itself, he still offered to help with funds. Through a trade, he gave me **1,000,000 BTC**. Since direct transfers aren't possible, I had to trade him something in return, so I gave him a single [Pain Away™️](https://github.com/DexterHuang/CyberCodeOnline/blob/master/contribution/mobile/en/dungeon-lore/Pain_Away_Ad.md).
 
 ![1M BTC Pain Away Trade between K4LM3D and Chief_Marauder](1M_BTC_Trade_Pain_Away_CCO_20260617.jpg "Chief_Marauder's fund support for rebuilding of Nousagi [NSG]")
-
-Looking back, that's still hilarious.
-
-At the moment, he's currently with **Meows_Cafe [8_8]** alongside **Chiiims**.
-
-But honestly, that's always been [Chief_Marauder](members/chief_marauder).
-
-Even if he isn't inside the gang, he's NSG by heart.
-
-And speaking of [Chief_Marauder](members/chief_marauder), today (June 18) is his birthday.
-
-![Happy Birthday, Chief_Marauder!](Chief_Marauder_Birthday_20260618.jpg "Nousagi Gang PH's Birthday Greetings to Chief_Marauder on Facebook (@nousagigangph)")
-
-[Xythran](members/xythran), [Chief_Marauder](members/chief_marauder), and I happened to be online shortly after midnight when he casually mentioned it in Tagalog chat. Of course, I couldn't go to sleep without sending him a birthday message and a small gift.
-
-![Birthday Gifts of K4LM3D to Chief_Marauder](K4LM3D_Bday_Gift_to_Chief_Marauder_CCO_20260618.jpg "Birthday Gifts of K4LM3D to Chief_Marauder")
-
-![Birthday Message of K4LM3D to Chief_Marauder](Bday_Msg_Chief_Marauder_K4LM3D_CCO_20260618.jpg "Birthday Message of K4LM3D to Chief_Marauder")
-
