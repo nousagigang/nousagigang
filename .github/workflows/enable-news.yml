@@ -1,4 +1,4 @@
-name: Enable News
+name: Disable News
 
 on:
   workflow_dispatch:
@@ -16,12 +16,12 @@ jobs:
           ref: main
 
       - run: |
-          mv content/news.disabled content/news
+          mv content/news/rebuilding-day-one content/news/rebuilding-day-one.disabled
 
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add content
-          git commit -m "Temporarily enable news section" || echo "No changes"
+          git commit -m "Temporarily disable news section" || echo "No changes"
           git push origin HEAD:main
