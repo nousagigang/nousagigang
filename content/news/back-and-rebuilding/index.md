@@ -7,7 +7,6 @@ aliases:
 - /rebuilding
 - /20260616
 layoutBackgroundHeaderSpace: false
-cardViewScreenWidth: false
 showTableOfContents: false
 showDate: true
 showDateUpdated: true
