@@ -39,7 +39,7 @@ I also spoke with [Chief_Marauder](members/chief_marauder).
 
 While he said he wouldn't be joining the gang itself, he still offered to help with funds. Through a trade, he gave me **1,000,000 BTC**. Since direct transfers aren't possible, I had to trade him something in return, so I gave him a single [Pain Away™️](https://github.com/DexterHuang/CyberCodeOnline/blob/master/contribution/mobile/en/dungeon-lore/Pain_Away_Ad.md).
 
-![1M BTC Pain Away Trade between K4LM3D and Chief_Marauder](https://nsg.pages.dev/screenshots/rebuilding-day-1/1M_BTC_Trade_Pain_Away_CCO_20260617.jpg "Chief_Marauder's fund support for rebuilding of Nousagi [NSG]")
+![1M BTC Pain Away Trade between K4LM3D and Chief_Marauder](https://nsg.pages.dev/screenshots/rebuilding-day-one/1M_BTC_Trade_Pain_Away_CCO_20260617.jpg "Chief_Marauder's fund support for rebuilding of Nousagi [NSG]")
 
 Looking back, that's still hilarious.
 
@@ -51,13 +51,13 @@ Even if he isn't inside the gang, he's NSG by heart.
 
 And speaking of [Chief_Marauder](members/chief_marauder), today (June 18) is his birthday.
 
-![Happy Birthday, Chief_Marauder!](https://nsg.pages.dev/screenshots/rebuilding-day-1/Chief_Marauder_Birthday_20260618.jpg "Nousagi Gang PH's Birthday Greetings to Chief_Marauder on Facebook (@nousagigangph)")
+![Happy Birthday, Chief_Marauder!](https://nsg.pages.dev/screenshots/rebuilding-day-one/Chief_Marauder_Birthday_20260618.jpg "Nousagi Gang PH's Birthday Greetings to Chief_Marauder on Facebook (@nousagigangph)")
 
 [Xythran](members/xythran), [Chief_Marauder](members/chief_marauder), and I happened to be online shortly after midnight when he casually mentioned it in Tagalog chat. Of course, I couldn't go to sleep without sending him a birthday message and a small gift.
 
-![Birthday Gifts of K4LM3D to Chief_Marauder](https://nsg.pages.dev/screenshots/rebuilding-day-1/K4LM3D_Bday_Gift_to_Chief_Marauder_CCO_20260618.jpg "Birthday Gifts of K4LM3D to Chief_Marauder")
+![Birthday Gifts of K4LM3D to Chief_Marauder](https://nsg.pages.dev/screenshots/rebuilding-day-one/K4LM3D_Bday_Gift_to_Chief_Marauder_CCO_20260618.jpg "Birthday Gifts of K4LM3D to Chief_Marauder")
 
-![Birthday Message of K4LM3D to Chief_Marauder](https://nsg.pages.dev/screenshots/rebuilding-day-1/Bday_Msg_Chief_Marauder_K4LM3D_CCO_20260618.jpg "Birthday Message of K4LM3D to Chief_Marauder")
+![Birthday Message of K4LM3D to Chief_Marauder](https://nsg.pages.dev/screenshots/rebuilding-day-one/Bday_Msg_Chief_Marauder_K4LM3D_CCO_20260618.jpg "Birthday Message of K4LM3D to Chief_Marauder")
 
 Moving on.
 
@@ -67,7 +67,7 @@ As of writing this, there are only three members in the roster:
 * [Xythran](members/xythran)
 * [Homongji](members/jude)
 
-![2026 June 17 Nousagi Gang Member Roster in CyberCode Online](https://nsg.pages.dev/screenshots/rebuilding-day-1/CCO_NSG_Roster_20260618.jpg "2026 June 17-18 NSG Member Roster")
+![2026 June 17 Nousagi Gang Member Roster in CyberCode Online](https://nsg.pages.dev/screenshots/rebuilding-day-one/CCO_NSG_Roster_20260618.jpg "2026 June 17-18 NSG Member Roster")
 
 I'm not going to lie.
 
@@ -83,14 +83,14 @@ What I do regret is that I wasn't able to help [En_Roise](members/en_roise) pres
 
 That feeling became even stronger after I looked through an old screenshot from January.
 
-![Nousagi Gang Headquarters Screenshot 2026 January 27](https://nsg.pages.dev/screenshots/rebuilding-day-1/Screenshot_From_20260127.jpg "CCO NSG Gang HQ - Level, Resources, and Funds")
+![Nousagi Gang Headquarters Screenshot 2026 January 27](https://nsg.pages.dev/screenshots/rebuilding-day-one/Screenshot_From_20260127.jpg "CCO NSG Gang HQ - Level, Resources, and Funds")
 
 At that time, the former gang was **Level 36** and had the following upkeep status:
 
 > *Resources:* **32,861** / **2,328**\
 > *Funds:* **15,490,438** / **232,813**
 
-![Nousagi Gang Upkeep Computation](https://nsg.pages.dev/screenshots/rebuilding-day-1/NSG_Upkeep_Computation.jpg "CCO Nousagi Gang Upkeep Computation")
+![Nousagi Gang Upkeep Computation](https://nsg.pages.dev/screenshots/rebuilding-day-one/NSG_Upkeep_Computation.jpg "CCO Nousagi Gang Upkeep Computation")
 
 When I did the math, the resources would have only lasted around **fourteen more weeks** from January 27.
 
@@ -120,7 +120,7 @@ Our original goal was to reach Level 36 again, matching the former NSG before it
 
 At the time of writing, we're already making progress toward that goal.
 
-![Nousagi Gang Headquarters on CyberCode Online 2026 June 18](https://nsg.pages.dev/screenshots/rebuilding-day-1/CCO_NSG_HQ_20260618.jpg "CCO NSG Gang HQ 2026 June 18")
+![Nousagi Gang Headquarters on CyberCode Online 2026 June 18](https://nsg.pages.dev/screenshots/rebuilding-day-one/CCO_NSG_HQ_20260618.jpg "CCO NSG Gang HQ 2026 June 18")
 
 However, I also need to be realistic.
 
