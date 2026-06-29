@@ -1,7 +1,8 @@
 ---
-title: 'Contact us'
-# date: 2025-07-30T15:35:38+08:00
+title: Contact us
+date: 2025-07-30T15:35:38+08:00
 draft: false
+ShowDate: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
