@@ -1,7 +1,8 @@
 ---
-title: 'About'
-# date: 2025-07-12T22:48:38+08:00
+title: About
+date: 2025-07-12T22:48:38+08:00
 draft: false
+showDate: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
