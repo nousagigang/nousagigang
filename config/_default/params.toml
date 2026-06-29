@@ -148,13 +148,13 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCDlMaOKo8C-kJOxUWHQ0JcLzVUPZrvxoU",
+  authDomain = "nousagigangph.firebaseapp.com",
+  projectId = "nousagigangph",
+  storageBucket = "nousagigangph.firebasestorage.app",
+  messagingSenderId = "1019800703994",
+  appId = "1:1019800703994:web:ac657bf95633889a72ca43",
+  measurementId = "G-0W5R4WD7YQ"
 
 [fathomAnalytics]
   # site = "ABC12345"
