@@ -4,7 +4,6 @@ date: 2025-07-11T19:19:59+08:00
 draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
 description: "Get to know Xythran of Nousagi Gang"
-# externalUrl: ""
 weight: 4
 showDate: false
 showAuthor: false
