@@ -25,7 +25,7 @@ layoutBackgroundHeaderSpace: false
 #### Socials
 
 {{< button href="https://gamerprofiles.com/gamer/Homongji?inviter=zKB9P" target="_blank" >}}
-{{< icon "link" >}} GamerProfiles
+{{< icon "gamerprofiles" >}} GamerProfiles
 {{< /button >}} &nbsp;
 {{< button href="https://www.instagram.com/oniichan266" target="_blank" >}}
 {{< icon "instagram" >}} Instagram
