@@ -3,7 +3,7 @@ title: Chief_Marauder
 date: 2025-07-11T19:13:59+08:00
 draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
-# externalUrl: ""
+description: "Get to know Chief_Marauder of Nousagi Gang"
 weight: 2
 showDate: false
 showAuthor: false
