@@ -34,11 +34,12 @@ heroStyle: "background"
 - **Bio:** `Gamer` `Writer` `Developer`
 - **Role:** `Techie`
 
-#### Socials
-
 {{< button href="https://kalmed.localplayer.dev" target="_blank" >}}
 {{< icon "globe" >}} Website
-{{< /button >}} &nbsp;
+{{< /button >}}
+
+#### Socials
+
 {{< button href="https://facebook.com/k4lm3dgg" target="_blank" >}}
 {{< icon "facebook" >}} Facebook
 {{< /button >}} &nbsp;
@@ -46,7 +47,7 @@ heroStyle: "background"
 {{< icon "instagram" >}} Instagram
 {{< /button >}} &nbsp;
 {{< button href="https://gamerprofiles.com/gamer/k4lm3d?inviter=wnB4D" target="_blank" >}}
-{{< icon "link" >}} GamerProfiles
+{{< icon "gamerprofiles" >}} GamerProfiles
 {{< /button >}}
 
 ___
