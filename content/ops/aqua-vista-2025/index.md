@@ -5,6 +5,8 @@ draft: false
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 showDate: true
+showAuthor: false
+authors: ["en_roise", "k4lm3d"]
 showBreadcrumbs: true
 tags: ["Territory Control", "Aqua Vistan District", "community events", "Arclight City"]
 ---
