@@ -22,5 +22,5 @@ layoutBackgroundHeaderSpace: false
 #### Socials
 
 {{< button href="https://gamerprofiles.com/gamer/Xythran" target="_blank" >}}
-{{< icon "link" >}} GamerProfiles
+{{< icon "gamerprofiles" >}} GamerProfiles
 {{< /button >}}
