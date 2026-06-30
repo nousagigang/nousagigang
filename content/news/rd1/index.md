@@ -12,7 +12,7 @@ layoutBackgroundHeaderSpace: false
 showTableOfContents: false
 showDate: true
 showDateUpdated: true
-tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "GamingCommunity", "LeadersLog", "HappyBirthday"]
+tags: ["NousagiGang", "CyberCodeOnline", "BackAndRebuilding", "LeadersLog"]
 showAuthor: false
 authors: ["k4lm3d"]
 showAuthorsBadges: false
@@ -95,7 +95,7 @@ At that time, the former gang was **Level 36** and had the following upkeep stat
 
 When I did the math, the resources would have only lasted around **fourteen more weeks** from January 27.
 
-That means the gang most likely dissolved during the **last week of April**&mdash;almost a month before **BLACK_ACE** eventually discovered it.
+That means the gang most likely dissolved during the **last week of April**&mdash;almost a month before [BLACK_ACE](members/black_ace) eventually discovered it.
 
 ![Gasp No Way Gif](https://media.tenor.com/Gc5VrbFvR1MAAAAd/gasp-no-way.gif)
 

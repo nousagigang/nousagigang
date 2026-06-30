@@ -28,7 +28,7 @@ On June 5, 2026, it was discovered that the **Nousagi Gang** in **CyberCode Onli
 
 <small>*(**Disclaimer:** To respect the privacy of our members and friends, some screenshots shown in this announcement have been edited. Usernames, profile pictures, IDs, timestamps, and other personal or sensitive information may have been redacted, blurred, cropped, or modified. These changes were made solely for privacy purposes and do not affect the authenticity or context of the events being documented.)*</small>
 
-The discovery was first made by **BLACK_ACE**, who noticed that he was no longer part of the gang and announced in CCO's Tagalog chat. **Chiiims** of **Meows_Cafe [8_8]** informed members through CCO PH Discord server, and [Homongji](/members/jude) later confirmed that the gang had indeed been dissolved.
+The discovery was first made by [BLACK_ACE](/members/black_ace), who noticed that he was no longer part of the gang and announced in CCO's Tagalog chat. **Chiiims** of **Meows_Cafe [8_8]** informed members through CCO PH Discord server, and [Homongji](/members/jude) later confirmed that the gang had indeed been dissolved.
 
 For many of us, this was heartbreaking news.
 
@@ -120,6 +120,7 @@ United by games, bound by values.
 
 ---
 
-#### Updates:
+#### Related Updates:
 
-{{< article link="/news/rd1" showSummary=false compactSummary=false >}}
+- [Rebuilding Day One](/news/rd1)
+- [Progress Report June 16-26](/news/progress-report-2026-06-16-26)

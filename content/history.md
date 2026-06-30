@@ -11,9 +11,9 @@ cardViewScreenWidth: false
 
 ## Origins
 
-The story of NSG began with a simple idea: *creating a space where Filipino players could play together in text-based MMORPGs.*
+The story of NSG began with a simple idea: *creating a gang where Filipino players could play together in text-based MMORPGs.*
 
-At the time, many gangs were made up of mixed nationalities, while some communities were dominated by players from specific countries such as Indonesia, Japan, or Korea. However, there had not yet been a gang formed specifically for Filipino players.
+At the time, in the game [CyberCode Online](https://cybercodeonline.com), many gangs were made up of mixed nationalities, while some communities were dominated by players from specific countries such as Indonesia, Japan, or Korea. However, there had not yet been a gang formed specifically for Filipino players.
 
 On **22 February 2022**, [K4LM3D](/members/k4lm3d) suggested the idea of creating an **all-Filipino gang** so that players from the Philippines could easily find each other, cooperate, and build a stronger sense of camaraderie in-game.
 
