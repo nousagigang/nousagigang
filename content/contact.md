@@ -2,7 +2,9 @@
 title: Contact us
 date: 2025-07-30T15:35:38+08:00
 draft: false
-ShowDate: false
+showDate: false
+showAuthor: true
+showAuthorBottom: true
 layoutBackgroundHeaderSpace: false
 cardViewScreenWidth: false
 ---
