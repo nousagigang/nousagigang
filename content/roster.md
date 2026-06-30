@@ -14,6 +14,10 @@ This page lists members of the Nousagi Gang PH community across different games.
 
 ## [CyberCode Online](https://cybercodeonline.com)
 
+{{< typeit tag=h3 >}}
+STATUS: ACTIVE
+{{< /typeit >}}
+
 - [K4LM3D](members/k4lm3d)
 - [Xythran](members/xythran)
 - [Homongji](members/jude)
@@ -25,6 +29,10 @@ This page lists members of the Nousagi Gang PH community across different games.
 ---
 
 ## [Arclight City](https://arclightcity.net)
+
+{{< typeit tag=h3 >}}
+STATUS: INACTIVE
+{{< /typeit >}}
 
 - [En_Roise](members/en_roise)
 - Chrysaor
