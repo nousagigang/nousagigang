@@ -122,4 +122,4 @@ United by games, bound by values.
 
 #### Updates:
 
-{{< article link="/news/rebuilding-day-one/" showSummary=true compactSummary=true >}}
+{{< article link="/news/rd1" showSummary=false compactSummary=false >}}
