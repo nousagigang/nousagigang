@@ -3,7 +3,7 @@ title: 'En_Roise'
 date: 2025-07-11T04:35:59+08:00
 draft: false
 tags: ["CyberCode Online", "Arclight City"]
-# externalUrl: "https://nousagi.onrender.com"
+description: "Get to know En_Roise of Nousagi Gang"
 weight: 1
 showDate: false
 showAuthor: false
