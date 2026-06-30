@@ -3,6 +3,7 @@ title: Jude
 date: 2025-03-11T07:13:50+08:00
 draft: false
 tags: ["CyberCode Online", "Arclight City", "Torn"]
+description: "Get to know Jude of Nousagi Gang"
 # externalUrl: ""
 weight: 5
 showDate: false
