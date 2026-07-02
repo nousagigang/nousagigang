@@ -23,5 +23,11 @@ description: "Nousagi Gang is a Filipino multi-gaming community founded in 2022,
 NSG continues to grow with every new member and every new adventure.
 
 <br />
+
+### Nousagi Gang Members
+
+{{< member-list >}}
+
+<br />
 <br />
 <br />

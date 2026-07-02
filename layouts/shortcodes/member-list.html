@@ -1,0 +1,20 @@
+{{ $members := where site.RegularPages "Section" "members" }}
+
+<div class="member-list">
+  {{ range sort $members "Title" }}
+    {{ $avatar := .Resources.GetMatch "avatar.*" }}
+    {{ if $avatar }}
+      <a
+        href="{{ .RelPermalink }}"
+        title="{{ .Title }}"
+        class="member-list__item">
+
+        <img
+          src="{{ $avatar.RelPermalink }}"
+          alt="{{ .Title }}"
+          loading="lazy">
+
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
